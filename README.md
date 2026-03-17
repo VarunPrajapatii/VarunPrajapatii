@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Prajapati</h1>
+<h1 align="center">Hi, I'm Varun Prajapati</h1>
 <h3 align="center">Expertise in building production-grade, scalable web applications using modern technologies. Experience in cloud solutions, secure payment systems, backends and architecting microservices. Strong foundation in system design, cloud infrastructure, and DevOps. Solved 600+ DSA problems, which shows strong problem-solving abilities and algorithmic thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunprajapatii&label=Profile%20views&color=0e75b6&style=flat" alt="varunprajapatii" /> </p>
