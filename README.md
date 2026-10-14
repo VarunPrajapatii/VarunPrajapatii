@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Varun Prajapati</h1>
 <h3 align="center">Expertise in building production-grade, scalable web applications using modern technologies. Experience in cloud solutions, secure payment systems, backends and architecting microservices. Strong foundation in system design, cloud infrastructure, and DevOps. Solved 600+ DSA problems, which shows strong problem-solving abilities and algorithmic thinking.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunprajapatii&label=Profile%20views&color=0e75b6&style=flat" alt="varunprajapatii" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunprajapatii&label=Profile%20views&color=0e75b6&style=flat" alt="varunprajapatii" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunprajapatii" alt="varunprajapatii" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?VarunPrajapatii=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=varunprajapatii" alt="varunprajapatii" /></a> </p>
 
 - 🔭 I’m currently working on [proPAYn - A Digital Wallet and Payment App](https://propayn.varuntd.com)
 
